@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e312022f-b55c-49fd-b93c-7b747cb17809" name="Changes" comment="ppp">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -46,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700236610717</updated>
-      <workItem from="1700236611742" duration="543000" />
+      <workItem from="1700236611742" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="ppp">
       <option name="closed" value="true" />
@@ -72,7 +75,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700237057135</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ppp">
+      <option name="closed" value="true" />
+      <created>1700237166949</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700237166949</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
